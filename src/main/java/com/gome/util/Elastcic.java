@@ -1,4 +1,4 @@
-package com.gome.util;
+package com.gome.util; 
 
 /**   
  * @ClassName:  Elastcic   
