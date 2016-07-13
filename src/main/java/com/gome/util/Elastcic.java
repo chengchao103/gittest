@@ -8,5 +8,7 @@ package com.gome.util;
  * @Copyright(c) gome inc Gome Co.,LTD   
  */
 public class Elastcic {
-
+    public static void main(String[] args) {
+        System.out.println("你好，中国");
+    }
 }
